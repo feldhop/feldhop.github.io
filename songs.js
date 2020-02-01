@@ -224,7 +224,7 @@ SC.songs = [
     "Order": 24,
     "Time": 5,
     "Song": "Codeine",
-    "Artist": "Trampled",
+    "Artist": "Trampled by Turtles",
     "Orig/Cover": "",
     "Capo": 3,
     "Vibe": "Upbeat",
@@ -317,7 +317,7 @@ SC.songs = [
     "Artist": "EG",
     "Orig/Cover": "",
     "Capo": 2,
-    "Vibe": "Soft/Hard…",
+    "Vibe": "Soft/Upbeat",
     "Key": ""
   },
   {
@@ -434,7 +434,7 @@ SC.songs = [
     "Order": "",
     "Time": 5,
     "Song": "Jezebel",
-    "Artist": "Iron",
+    "Artist": "Iron & Wine",
     "Orig/Cover": "Cover",
     "Capo": 7,
     "Vibe": "Soft",
@@ -483,8 +483,78 @@ SC.songs = [
   {
     "Order": "",
     "Time": 5,
-    "Song": "Have You Ever Seen The Rain",
+    "Song": "Alabama Pines",
+    "Artist": "Jason Isbell",
+    "Orig/Cover": "",
+    "Capo": 4,
+    "Vibe": "Upbeat",
+    "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Whiskey",
+    "Artist": "Trampled by Turtles",
+    "Orig/Cover": "",
+    "Capo": 2,
+    "Vibe": "Soft",
+    "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Murder of One",
+    "Artist": "Counting Crows",
+    "Orig/Cover": "Medium",
+    "Capo": 3,
+    "Vibe": "",
+    "Key": "F"
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "I'm on Fire",
+    "Artist": "Bruce Springsteen",
+    "Orig/Cover": "",
+    "Capo": 4,
+    "Vibe": "Medium",
+    "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Tennessee Whiskey",
+    "Artist": "George Jones/Chris Stapleton",
+    "Orig/Cover": "",
+    "Capo": 0,
+    "Vibe": "Soft",
+    "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Anyway You Want It",
+    "Artist": "Journey",
+    "Orig/Cover": "",
+    "Capo": 3,
+    "Vibe": "Upbeat",
+    "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Down on the Corner",
     "Artist": "CCR",
+    "Orig/Cover": "",
+    "Capo": 0,
+    "Vibe": "Soft",
+    "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Blackberry",
+    "Artist": "Traditional",
     "Orig/Cover": "",
     "Capo": 0,
     "Vibe": "Soft",
