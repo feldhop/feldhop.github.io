@@ -1,5 +1,6 @@
-<html>
+<html language="en">
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="songs.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
         <style>
@@ -7,7 +8,14 @@
                 margin: 10px 0;
             }
             .select-container label {
-                font-weight: 700;;
+                font-weight: 700;
+            }
+            .songs-selected {
+                margin: 10px 0;
+            }
+            .song-row {
+                border-top: 1px solid #000000;
+                padding: 5px;
             }
         </style>
     </head>
@@ -22,6 +30,7 @@
                 <option value="Capo">by Capo</option>
             </select>
         </div>
+        <!-- <div class="songs-selected">Songs Selected: <span id="songs-count">0</span></div> -->
         <div id="songs"></div>
         <script src="setlist-creator.js"></script>
     </body>

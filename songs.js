@@ -559,5 +559,15 @@ SC.songs = [
     "Capo": 0,
     "Vibe": "Soft",
     "Key": ""
+  },
+  {
+    "Order": "",
+    "Time": 5,
+    "Song": "Feathered Indians",
+    "Artist": "Tyler Childers",
+    "Orig/Cover": "",
+    "Capo": 0,
+    "Vibe": "Medium",
+    "Key": ""
   }
 ]
