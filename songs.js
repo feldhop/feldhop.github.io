@@ -1,4 +1,5 @@
-[
+SC = {};
+SC.songs = [
   {
     "Order": 1,
     "Time": 5,

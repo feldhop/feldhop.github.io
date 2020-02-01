@@ -1,6 +1,28 @@
 <html>
-    <head></head>
+    <head>
+        <script src="songs.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+        <style>
+            .select-container {
+                margin: 10px 0;
+            }
+            .select-container label {
+                font-weight: 700;;
+            }
+        </style>
+    </head>
     <body>
         <h1>Setlist Creator</h1>
+        <div class="select-container">
+            <label for="sort-by">Sort By</label>
+            <select id="sort-by">
+                <option value="">Choose an option...</option>
+                <option value="Artist">by Artist</option>
+                <option value="Vibe">by Vibe</option>
+                <option value="Capo">by Capo</option>
+            </select>
+        </div>
+        <div id="songs"></div>
+        <script src="setlist-creator.js"></script>
     </body>
 </html>
